@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin Course</string>
+    <string name="title_activity_food_item_list">FoodItemListActivity</string>
+    <string name="title_activity_main_list">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+</resources>
